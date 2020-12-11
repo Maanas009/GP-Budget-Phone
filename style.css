@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding-left: 200px;
+}
+h1{
+    text-align: center;    
+}
+#hp{
+    font-weight: 500;
+}
